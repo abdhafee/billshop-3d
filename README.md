@@ -70,7 +70,7 @@ npm install
 ```bash
 npm run dev
 ```
-Open [http://localhost:5173](http://localhost:5173) in your browser.
+Open [https://genuine-syrniki-82d745.netlify.app/](https://genuine-syrniki-82d745.netlify.app/) in your browser.
 
 ### 4. Build for Production
 ```bash
